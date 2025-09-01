@@ -1,5 +1,3 @@
-
-```markdown
 ## 📊 Customer Churn Prediction (Random Forest)
 Predicting customer churn is essential for businesses to reduce customer loss and improve retention strategies.  
 This project applies a **Random Forest Classifier** to analyze telecom customer data and predict churn.
