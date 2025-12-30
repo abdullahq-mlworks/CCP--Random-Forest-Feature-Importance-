@@ -28,11 +28,9 @@ Customer-Churn-Prediction-(Random Forest)/
 
 ## ⚙️ Installation
 Clone the repository and install dependencies:
-```bash
 git clone https://github.com/abdullahq-mlworks/CCP--Random-Forest-Feature-Importance-.git
 cd CCP-(Random Forest+Feature Importance)
 pip install -r requirements.txt
-````
 
 **Requirements:**
 pandas
@@ -74,11 +72,4 @@ jupyter
 * Hyperparameter Tuning (GridSearchCV / RandomizedSearchCV)
 * Deploy as Streamlit or Flask Web App for interactive visualization
 
-```
-
 ---
-
-Agar chaho, main **even shorter version**, **2-3 paragraphs GitHub description style**, jo **repo main top me aa jaye**, bhi bana doon.  
-
-Kya bna doon wo bhi?
-```
